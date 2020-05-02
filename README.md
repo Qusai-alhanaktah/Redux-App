@@ -1,1 +1,1 @@
-# readux-App
+# Redux-App
